@@ -14,24 +14,24 @@
 >문제 형식 : 객관식, OX, 단답형, 서술형 등
 
 ### 📂 구조
-- Chapter1
+- Chapter1 - 데이터 타입
    - [문제](https://github.com/prgrms-web-devcourse/FE-CoreJavascript-study/blob/main/Chapter1/%EB%AC%B8%EC%A0%9C.md)
    - [문제 해설](https://github.com/prgrms-web-devcourse/FE-CoreJavascript-study/blob/main/Chapter1/%EB%AC%B8%EC%A0%9C%20%ED%95%B4%EC%84%A4.md)
-- Chapter2
+- Chapter2 - 실행 컨텍스트
    - [문제](https://github.com/prgrms-web-devcourse/FE-CoreJavascript-study/blob/main/Chapter2/%EB%AC%B8%EC%A0%9C.md)
    - [문제 해설](https://github.com/prgrms-web-devcourse/FE-CoreJavascript-study/blob/main/Chapter2/%EB%AC%B8%EC%A0%9C%20%ED%95%B4%EC%84%A4.md)
-- Chapter3
+- Chapter3 - this
    - [문제](https://github.com/prgrms-web-devcourse/FE-CoreJavascript-study/blob/main/Chapter3/%EB%AC%B8%EC%A0%9C.md)
    - [문제 해설](https://github.com/prgrms-web-devcourse/FE-CoreJavascript-study/blob/main/Chapter3/%EB%AC%B8%EC%A0%9C%20%ED%95%B4%EC%84%A4.md)
-- Chapter4
+- Chapter4 - 콜백 함수
    - [문제](https://github.com/prgrms-web-devcourse/FE-CoreJavascript-study/blob/main/Chapter4/%EB%AC%B8%EC%A0%9C.md)
    - [문제 해설](https://github.com/prgrms-web-devcourse/FE-CoreJavascript-study/blob/main/Chapter4/%EB%AC%B8%EC%A0%9C%20%ED%95%B4%EC%84%A4.md)
-- Chapter5
+- Chapter5 - 클로저
    - [문제](https://github.com/prgrms-web-devcourse/FE-CoreJavascript-study/blob/main/Chapter5/%EB%AC%B8%EC%A0%9C.md)
    - [문제 해설](https://github.com/prgrms-web-devcourse/FE-CoreJavascript-study/blob/main/Chapter5/%EB%AC%B8%EC%A0%9C%20%ED%95%B4%EC%84%A4.md)
-- Chapter6
+- Chapter6 - 프로토타입
    - [문제](https://github.com/prgrms-web-devcourse/FE-CoreJavascript-study/blob/main/Chapter6/%EB%AC%B8%EC%A0%9C.md)
    - [문제 해설](https://github.com/prgrms-web-devcourse/FE-CoreJavascript-study/blob/main/Chapter6/%EB%AC%B8%EC%A0%9C%20%ED%95%B4%EC%84%A4.md)
-- Chapter7
+- Chapter7 - 클래스
    - [문제](https://github.com/prgrms-web-devcourse/FE-CoreJavascript-study/blob/main/Chapter7/%EB%AC%B8%EC%A0%9C.md)
    - [문제 해설](https://github.com/prgrms-web-devcourse/FE-CoreJavascript-study/blob/main/Chapter7/%EB%AC%B8%EC%A0%9C%20%ED%95%B4%EC%84%A4.md)
